@@ -1,0 +1,44 @@
+# Company Leave Policy
+
+## Overview
+This document outlines the leave policies for all employees at TechCorp Industries.
+
+## Types of Leave
+
+### Annual Leave
+- All full-time employees are entitled to 20 days of annual leave per calendar year.
+- Leave can be carried over to the next year with a maximum of 10 days.
+- Any unused leave beyond 10 days will be forfeited.
+- Leave requests must be submitted at least 2 weeks in advance.
+
+### Sick Leave
+- Employees are entitled to 10 days of sick leave per year.
+- Sick leave can be used for personal illness or family medical emergencies.
+- Medical certificates are required for absences exceeding 3 consecutive days.
+- Unused sick leave cannot be carried over to the next year.
+
+### Maternity Leave
+- Female employees are entitled to 4 months (120 days) of maternity leave.
+- The leave begins from the date of delivery.
+- Up to 1 month can be taken before the expected delivery date.
+- Job protection is guaranteed during maternity leave.
+
+### Paternity Leave
+- Male employees are entitled to 10 days of paternity leave.
+- Leave must be taken within 3 months of child's birth.
+- Documentation of child's birth is required.
+
+### Bereavement Leave
+- Employees are entitled to 3 days of bereavement leave for immediate family members.
+- Immediate family includes spouse, parents, children, and siblings.
+- Additional leave can be requested on a case-by-case basis.
+
+## Leave Request Process
+
+1. Submit leave request via HR portal at least 2 weeks in advance
+2. Obtain manager approval
+3. HR will process and confirm the request
+4. For extended leave, additional documentation may be required
+
+## Policy on Leave Denial
+Leave requests can be denied only in exceptional circumstances affecting critical business operations. In such cases, employees will be offered alternative dates.
