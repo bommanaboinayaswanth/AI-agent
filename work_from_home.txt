@@ -1,0 +1,40 @@
+# Work From Home Policy
+
+## Eligibility
+All full-time employees are eligible to work from home (WFH) after successfully completing their probation period (minimum 3 months).
+
+## WFH Days
+- Employees can work from home up to 3 days per week
+- WFH schedule must be coordinated with the team and manager
+- At least 2 days per week must be spent in the office for collaboration
+
+## Equipment and Setup
+- Company will provide a laptop and monitor for remote work
+- Employees are responsible for maintaining a productive work environment
+- Internet speed must be at least 10 Mbps for optimal performance
+- VPN access will be provided by IT for secure connectivity
+
+## Working Hours
+- Core working hours are 10:00 AM to 4:00 PM IST
+- Employees can set their own start/end time within 8 AM to 6 PM window
+- All employees must be available during core hours for meetings
+
+## Responsibilities
+- Maintain data security and confidentiality
+- Use company-approved VPN at all times
+- Keep work-related files on company servers only
+- Do not share access credentials with anyone
+- Report any security incidents immediately
+
+## Performance Expectations
+- Same performance standards apply for WFH as in-office work
+- Regular status updates with manager are required
+- Attendance in scheduled meetings is mandatory
+- Response time to emails should be within 4 business hours
+
+## Termination of WFH Privilege
+WFH privileges can be revoked if:
+- Consistent poor performance
+- Missed deadlines or meetings
+- Data security violations
+- Lack of availability during core hours
