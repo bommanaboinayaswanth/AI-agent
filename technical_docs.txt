@@ -1,0 +1,62 @@
+# Technical Documentation - Development Standards
+
+## Technology Stack
+- Backend: Python 3.11+
+- Framework: FastAPI
+- Database: Azure SQL Database / Cosmos DB
+- Search: Azure AI Search
+- LLM: Azure OpenAI
+- Deployment: Azure App Service / Container Apps
+
+## Code Standards
+
+### Python Code Style
+- Follow PEP 8 conventions
+- Use type hints for all function parameters and return types
+- Maximum line length: 100 characters
+- Use meaningful variable and function names
+
+### Naming Conventions
+- Functions and variables: snake_case (e.g., get_user_data)
+- Classes: PascalCase (e.g., UserManager)
+- Constants: UPPER_CASE (e.g., MAX_RETRIES)
+- Private members: _prefix (e.g., _internal_function)
+
+## Git Workflow
+- Use feature branches for development
+- Branch naming: feature/description or bugfix/description
+- Commit messages must be descriptive
+- Pull requests require code review before merging
+
+## Testing Requirements
+- All new features must have unit tests
+- Minimum code coverage: 80%
+- Use pytest framework for testing
+- Integration tests required for API endpoints
+
+## API Documentation
+- All endpoints must be documented with docstrings
+- Include request/response examples
+- Document error responses and status codes
+- Use OpenAPI/Swagger format
+
+## Security Requirements
+- Use environment variables for secrets (never hardcode)
+- Validate all user inputs
+- Use HTTPS for all communications
+- Implement rate limiting on APIs
+- Regular security audits required
+
+## Performance Guidelines
+- API response time target: < 2 seconds
+- Database queries should use indexes
+- Implement caching where appropriate
+- Monitor performance metrics regularly
+
+## Deployment Checklist
+- Code review completed
+- Tests passing (100% coverage for new code)
+- Documentation updated
+- Security audit passed
+- Performance tested
+- Staging environment validation completed
